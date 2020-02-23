@@ -1,7 +1,8 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: My First Commit
   maxWidthPX: "652"
+draft: true
 
 ---
-Hello world!
+Hello, world!
